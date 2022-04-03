@@ -6,7 +6,7 @@
 .full_width{
     width: 100%;
    }
-.container {
+.header {
     background-color: black;
     display: flex;
     align-items: center;
